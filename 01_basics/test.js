@@ -1,1 +1,4 @@
-console.log("Hello")
+{
+    "liveServer.settings.port": 5501,
+    "editor.acceptSuggestionOnEnter": "on"
+}
